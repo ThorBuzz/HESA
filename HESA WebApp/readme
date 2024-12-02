@@ -1,0 +1,59 @@
+1. collab with hospitals: 
+    -via email?
+    -python xflask-mail?
+
+2. event voting platform: 
+    -logins required for votes tracking?
+    -login to vote, or simply view votes without login
+    -python flasksqalchemy for vote details (just in case)
+
+3. personlaity of the week:
+    -admin logins to update
+    -logins needed probably?
+
+4. sports update:
+    -similar to personality updates
+
+5. health awareness:
+    -admin logins
+
+6. orientations:
+    -admins
+    -@flask login required?
+
+7. entertainment updates:
+    -admins?
+
+8. news feed:
+    -admins
+
+9. bus tracking:
+    -GPS
+    -.python backend
+    - css/javascript animations
+
+10. electron?:
+    -for web app/desktop app version
+
+11. android studio and swift? :
+    -for android/ios app versions
+
+DATABASE & LOGIN:
+-compile students' data from excel
+-compile staff data?? *****************
+-create login route with credentials...
+-save details to database.db "site.db"
+
+IF WE CAN HAVE ACCESS TO KNUST STUDENT DATABASE?:
+OR HESA SMS to all members with password content provided phone number in database
+detect if id of user is in the database of ids. 
+if yes, allow them to create a password for the website
+else, raise error of id not found. Unidentified user continues to use the website without logging in 
+without loggin in, the unidentified users can :
+-view content of updates and news page, but CANNOT react
+-can send email on contact us page.
+
+login required for the ff:
+-reacting to the content of the updates/news page
+-viewing and editing profile
+-
